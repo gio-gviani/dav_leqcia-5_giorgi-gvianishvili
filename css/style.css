@@ -1,3 +1,9 @@
+/* 
+  font-family: "BPG Square", sans-serif;
+  font-family: "BPG Nino Mtavruli", sans-serif;
+  font-family: "BPG Nostalgia", sans-serif;
+*/
+
 body {
   margin-left: 63px;
 }
@@ -19,18 +25,18 @@ nav {
   /* margin-top: 41px; */
   margin-right: 80px;
   color: #8d81ff;
-  font-family: FiraGO;
+  font-family: "BPG Square", sans-serif;
   font-size: 26px;
   font-style: normal;
   font-weight: 700;
 }
 .selected {
   color: #4e6fae;
-  font-family: FiraGO;
   font-size: 26px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  font-family: "BPG Square", sans-serif;
 }
 .container_1 {
   margin-left: 131px;
@@ -50,9 +56,8 @@ nav {
   margin-right: 18px;
   /* margin-top: 5px; */
   vertical-align: middle;
-
+  font-family: "BPG Square", sans-serif;
   color: #4e6fae;
-  font-family: FiraGO;
   font-size: 26px;
   font-style: normal;
   font-weight: 700;
@@ -66,11 +71,20 @@ nav {
   margin-top: 5px;
 
   color: #4e6fae;
-  font-family: FiraGO;
-  font-size: 26px;
+  font-family: "BPG Square", sans-serif;
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+}
+.sub_title {
+  color: #3f4145;
+  font-family: "Roboto", serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 20px;
 }
 
 .main_page_new {
@@ -84,15 +98,7 @@ nav {
 .mpn1 {
   margin-right: 48px;
 }
-.sub_title {
-  color: #3f4145;
-  font-family: "Roboto", serif;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-bottom: 20px;
-}
+
 .main_page_news_img {
   display: inline-block;
   margin-right: 37px;
@@ -200,7 +206,7 @@ nav {
 }
 .month {
   color: #8d81ff;
-  font-family: FiraGO;
+  font-family: "BPG Nino Mtavruli", sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -209,7 +215,7 @@ nav {
 }
 .news_title {
   color: #4e6fae;
-  font-family: BPG Ninomtavruli;
+  font-family: "BPG Nino Mtavruli", sans-serif;
   font-size: 20px;
   font-weight: 700;
   line-height: normal;
@@ -229,7 +235,7 @@ nav {
 
 .news_text {
   color: #4e6fae;
-  font-family: FiraGO;
+  font-family: "BPG Nostalgia", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -245,16 +251,4 @@ nav {
   width: 1021px;
   height: 148px;
   display: block;
-}
-.test1 {
-  font-size: 30px;
-  font-family: BPG Square;
-}
-.test2 {
-  font-size: 30px;
-  font-family: "BPG Nino Mtavruli", sans-serif;
-}
-.test3 {
-  font-size: 30px;
-  font-family: "BPG Nostalgia", sans-serif;
 }
