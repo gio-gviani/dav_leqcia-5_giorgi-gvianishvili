@@ -1,0 +1,260 @@
+body {
+  margin-left: 63px;
+}
+header {
+  margin: 41px 0px 85px 0px;
+}
+.header_html_img {
+  width: 223px;
+  height: 58px;
+  margin-right: 60px;
+  display: inline-block;
+}
+nav {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 12px;
+}
+.nav_links {
+  /* margin-top: 41px; */
+  margin-right: 80px;
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+}
+.selected {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.container_1 {
+  margin-left: 131px;
+  margin-bottom: 91px;
+  width: 1052px;
+  height: 462px;
+}
+.background_html_img {
+  margin-bottom: 120px;
+  display: block;
+  width: 1052px;
+  height: 462px;
+}
+.title_1 {
+  height: 34px;
+  display: inline-block;
+  margin-right: 18px;
+  /* margin-top: 5px; */
+  vertical-align: middle;
+
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.title_smaller_1 {
+  vertical-align: middle;
+  width: 484px;
+  height: 34px;
+  display: inline-block;
+  margin-top: 5px;
+
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.main_page_new {
+  margin-top: 26px;
+  padding: 21px 0px 0px 23px;
+  display: inline-block;
+  background: #e7e7e7;
+  width: 500px;
+  height: 192px;
+}
+.mpn1 {
+  margin-right: 48px;
+}
+.sub_title {
+  color: #3f4145;
+  font-family: "Roboto", serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+.main_page_news_img {
+  display: inline-block;
+  margin-right: 37px;
+  margin-left: 9px;
+  width: 89px;
+  height: 89px;
+}
+.main_page_news_text {
+  display: inline-block;
+  width: 335px;
+  height: 95px;
+  color: #7e8898;
+  font-family: "Roboto", serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.main_footer {
+  margin-left: 131px;
+}
+.line_1 {
+  width: 2px;
+  height: 24px;
+  width: 2px;
+  background: #5012d5;
+  margin: 0px 41px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.line_2 {
+  display: inline-block;
+  width: 2px;
+  height: 48px;
+  border: 2px solid #5012d5;
+  margin: 0px 41px;
+}
+/* contact */
+.contact_section {
+  padding-top: 93px;
+  padding-left: 162px;
+  margin-bottom: 199px;
+  background: #e7e7e7;
+}
+
+.info_div {
+  margin-right: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+.contact_title {
+  color: #4e6fae;
+  font-family: Helvetica Neue;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 27px;
+}
+.info_type_div {
+  display: block;
+  margin-bottom: 13px;
+}
+.info_type {
+  color: #7e8898;
+  font-family: Helvetica Neue LT GEO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline;
+}
+.info {
+  color: #3f4145;
+  font-family: Helvetica Neue LT GEO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline;
+}
+.map {
+  display: inline-block;
+  width: 800px;
+}
+
+/* news */
+.news {
+  margin-bottom: 167px;
+}
+.num_div {
+  width: 50px;
+  height: 50px;
+  background: #5012d5;
+  padding: 8px 8px 8px 11px;
+  margin-bottom: 18px;
+}
+.num {
+  color: #84ff81;
+  font-family: Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.month {
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+.news_title {
+  color: #4e6fae;
+  font-family: BPG Ninomtavruli;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+
+  margin-bottom: 13px;
+}
+.news_img {
+  vertical-align: top;
+  margin-right: 66px;
+  margin-bottom: 32px;
+}
+.news_text_div {
+  display: inline-block;
+  width: 778px;
+  height: 281px;
+}
+
+.news_text {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: block;
+  margin-bottom: 15px;
+}
+.news_section {
+  padding-bottom: 143px;
+  background: #e7e7e7;
+}
+.text_3 {
+  width: 1021px;
+  height: 148px;
+  display: block;
+}
+.test1 {
+  font-size: 30px;
+  font-family: BPG Square;
+}
+.test2 {
+  font-size: 30px;
+  font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.test3 {
+  font-size: 30px;
+  font-family: "BPG Nostalgia", sans-serif;
+}
